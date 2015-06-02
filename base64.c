@@ -8,7 +8,7 @@
 
 /*************************** HEADER FILES ***************************/
 #include <stdlib.h>
-#include <base64.h>
+#include <crypto.h>
 
 /****************************** MACROS ******************************/
 #define NEWLINE_INVL 76
