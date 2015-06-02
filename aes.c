@@ -18,7 +18,7 @@
 /*************************** HEADER FILES ***************************/
 #include <stdlib.h>
 #include <memory.h>
-#include <aes.h>
+#include <crypto.h>
 
 //#include <stdio.h>
 
