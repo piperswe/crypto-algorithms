@@ -10,7 +10,7 @@
 
 /*************************** HEADER FILES ***************************/
 #include <stdlib.h>
-#include <arcfour.h>
+#include <crypto.h>
 
 /*********************** FUNCTION DEFINITIONS ***********************/
 void arcfour_key_setup(BYTE state[], const BYTE key[], int len)
