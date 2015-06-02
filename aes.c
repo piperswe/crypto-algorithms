@@ -18,9 +18,9 @@
 /*************************** HEADER FILES ***************************/
 #include <stdlib.h>
 #include <memory.h>
-#include "aes.h"
+#include <aes.h>
 
-#include <stdio.h>
+//#include <stdio.h>
 
 /****************************** MACROS ******************************/
 // The least significant byte of the word is rotated to the end.
