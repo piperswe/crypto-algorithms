@@ -12,7 +12,7 @@
 /*************************** HEADER FILES ***************************/
 #include <stdlib.h>
 #include <memory.h>
-#include <des.h>
+#include <crypto.h>
 
 /****************************** MACROS ******************************/
 // Obtain bit "b" from the left and shift it "c" places from the right
