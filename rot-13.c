@@ -11,7 +11,7 @@
 
 /*************************** HEADER FILES ***************************/
 #include <string.h>
-#include "rot-13.h"
+#include <crypto.h>
 
 /*********************** FUNCTION DEFINITIONS ***********************/
 void rot13(char str[])
